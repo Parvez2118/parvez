@@ -636,7 +636,7 @@ li{
 	line-height: 1.5em;
 	list-style-image: url(https://s3-us-west-2.amazonaws.com/s.cdpn.io/4621/treehouse-marker.png);
 	font-family: Segoe UI;  text-align: justify;text-indent: -1.5em; margin-bottom: 4px; 
-	
+	line-height: 28px; font-size:medium;
 }
 
 .hover-underline-animation {
